@@ -1,0 +1,201 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    width: 1440px;
+    margin: 0 auto;
+}
+
+.nav{
+    display: flex;
+    height: 80px;
+}
+
+.nav_logo-img{
+    margin-top: 31px;
+}
+
+.nav_list{
+    display: flex;
+    gap: 25px;
+    margin-top: 31px;
+    margin-left: 859px;
+}
+
+.nav_list-item{
+    list-style: none;
+}
+
+.nav_list-item_link{
+    color: #837D88;
+}
+
+.nav_btn{
+    width: 146px;
+    height: 40px;
+    font-size: 13px;
+    color: #2C2830;
+    margin-left: 33px;
+    background-color: white;
+    border-color: black;
+    margin-top: 22px;
+}
+
+.section{
+    height: 600px;
+    background-color: #2D2641;
+}
+
+.row{
+    display: flex;
+}
+
+p{
+    margin-top: 105px;
+    color: white;
+}
+
+h1{
+    width: 540px;
+    height: 140px;
+    font-size: 72px;
+    color: white;
+    margin-top: 63px;
+}
+
+.p{
+    width: 540px;
+    height: 84px;
+    color: white;
+    font-size: 16px;
+    margin-top: 30px;
+}
+
+.btn{
+    width: 146px;
+    height: 40px;
+    font-size: 13px;
+    color: white;
+    background-color:  #2D2641;
+    border-color: white;
+    margin-top: 24px;
+}
+
+.img{
+    margin-top: 105px;
+    margin-left: 360px;
+}
+
+.pp{
+    width: 540px;
+    height: 84px;
+    color: #C396C6;
+    font-size: 16px;
+    margin-top: 305px;
+}
+
+h2{
+    width: 717px;
+    height: 64px;
+    font-size: 72px;
+    color: #2C2830;
+    margin-top: 63px;
+}
+
+.row1{
+    display: flex;
+    gap: 202px;
+}
+
+.col1{
+    margin-top: 96px;
+}
+
+h3{
+    width: 350px;
+    height: 38px;
+    font-size: 28px;
+    color: #2C2830;
+    margin-top: 32px;
+}
+
+.p_p{
+    width: 350px;
+    height: 78px;
+    font-size: 16px;
+    color: #837D88;
+    margin-top: -0px;
+}
+
+.row2{
+    width: 1440px;
+    height: 250px;
+    background-color: #2D2641;
+    display: flex;
+    margin-top: 158px;
+}
+
+h4{
+    width: 475px;
+    height: 112px;
+    font-size: 56px;
+    color: white;
+    margin-top: 69px;
+    margin-left: 81px;
+}
+
+.btn1{
+    width: 160px;
+    height: 40px;
+    margin-left: 650px;
+    margin-top: 120px;
+    color: white;
+    border-color: white;
+    background-color: #2D2641;
+}
+
+.site_footer{
+    height: 393px;
+    background-color: #FAFAFA;
+}
+
+.row3{
+    margin-top: 1400px;
+}
+
+.IMG{
+    margin-left: 1295px;
+}
+
+.nav_logo-img1{
+    margin-top: 64px;
+}
+
+.ppp{
+    color: #DADADA;
+    margin-top: -0;
+}
+
+.row4{
+    display: flex;
+    gap: 140px;
+}
+
+h5{
+    margin-top: 48px;
+    width: 255px;
+    height: 15px;
+    font-size: 13px;
+    color: #837D88;
+}
+
+h6{
+    margin-top: 36px;
+    width: 255px;
+    height: 15px;
+    font-size: 13px;
+    color: #2D2641;
+}
